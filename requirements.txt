@@ -1,1 +1,1 @@
-langchain_mistralai
+langchain_mistralai==0.1.13
