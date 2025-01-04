@@ -1,9 +1,10 @@
 {
     "name": "MistralAI",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Integrations of the SaaS MistralAI service",
     "author_name": "valentimarco",
-    "plugin_url": "https://github.com/my_name/mistralai",
+    "author_url": "https://github.com/valentimarco",
+    "plugin_url": "https://github.com/valentimarco/MistralAI-Integration",
     "tags": "cat, integrations, MistralAI",
     "thumb": "https://console.mistral.ai/static/images/logo.svg"
 }
